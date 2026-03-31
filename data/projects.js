@@ -18,4 +18,12 @@ const projects = [
     status: "in-progress",
     github: "#",
   },
+
+   {
+    member: "Error Man",
+    project: "ErrorTeam Hub",
+    description: "Error looking at you right now.",
+    status: "no-progress",
+    github: "#",
+  }
 ];
